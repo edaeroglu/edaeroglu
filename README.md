@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science / Data Analyst**
 
-- ⚡ Fun fact **If I want to learn something I will definitely learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
